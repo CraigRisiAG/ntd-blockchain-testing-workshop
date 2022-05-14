@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "picture": "images/ntd-tallinn-old-town.jpg",
+    "location": "Tallinn Old Town"
+  },
+  {
+    "id": 1,
+    "picture": "images/ntd-lennusadam-seaplane-harbour.jpg",
+    "location": "Lennusadam Seaplane Harbour"
+  },
+  {
+    "id": 2,
+    "picture": "images/ntd-toompea-hill.jpg",
+    "location": "Toompea Hill"
+  },
+  {
+    "id": 3,
+    "picture": "images/ntd-aleksander-nevski-katedraali.jpg",
+    "location": "Aleksander Nevski Katedraali"
+  },
+  {
+    "id": 4,
+    "picture": "images/ntd-kadriorg-park.jpg",
+    "location": "Kadriorg Park"
+  },
+  {
+    "id": 5,
+    "picture": "images/ntd-tallinna-raekoja-plats.jpg",
+    "location": "Tallinna Raekoja Plats"
+  },
+  {
+    "id": 6,
+    "picture": "images/ntd-eesti-vabaohumuuseum.jpg",
+    "location": "Eesti Vabaohumuuseum"
+  },
+  {
+    "id": 7,
+    "picture": "images/ntd-tallinna-teletorn.jpg",
+    "location": "Tallinna Teletorn"
+  },
+  {
+    "id": 8,
+    "picture": "images/ntd-kumu-art-museum.jpg",
+    "location": "Kumu Art Museum"
+  },
+  {
+    "id": 9,
+    "picture": "images/ntd-st-olaf-church.jpg",
+    "location": "St Olaf's Church"
+  },
+  {
+    "id": 10,
+    "picture": "images/ntd-telliskivi-loomelinnak.jpg",
+    "location": "Telliskivi Loomelinnak"
+  },
+  {
+    "id": 11,
+    "picture": "images/ntd-tallinna-raekoda.jpg",
+    "location": "Tallinna Raekoda"
+  }
+]
