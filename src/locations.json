@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "picture": "images/ntd-tallinn-old-town.jpg",
+    "picture": "images/ntd-tallnin-old-town.jpg",
     "location": "Tallinn Old Town"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "id": 3,
-    "picture": "images/ntd-aleksander-nevski-katedraali.jpg",
+    "picture": "images/ntd-aleksandr-nevski-katedraali.jpg",
     "location": "Aleksander Nevski Katedraali"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "id": 5,
-    "picture": "images/ntd-tallinna-raekoja-plats.jpg",
+    "picture": "images/ntd-tallina-raekoja-plats.jpg",
     "location": "Tallinna Raekoja Plats"
   },
   {
     "id": 6,
-    "picture": "images/ntd-eesti-vabaohumuuseum.jpg",
+    "picture": "images/ntd-Eesti-vabaohumuuseum.jpg",
     "location": "Eesti Vabaohumuuseum"
   },
   {
