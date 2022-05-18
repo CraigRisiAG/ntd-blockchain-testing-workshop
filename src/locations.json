@@ -58,5 +58,25 @@
     "id": 11,
     "picture": "images/ntd-tallinna-raekoda.jpg",
     "location": "Tallinna Raekoda"
+  },
+  {
+    "id": 12,
+    "picture": "images/ntd-st-catherines-passage.jpg",
+    "location": "St. Catherine's Passage"
+  },
+  {
+    "id": 13,
+    "picture": "images/ntd-viewing-point-kohtuotsa.jpg",
+    "location": "Viewing Point Kohtuotsa"
+  },
+  {
+    "id": 14,
+    "picture": "images/ntd-tallinn-town-wall.jpg",
+    "location": "Tallinn Town Wall"
+  },
+  {
+    "id": 15,
+    "picture": "images/ntd-balti-jaam-market.jpg",
+    "location": "Balti Jaam Market"
   }
 ]
