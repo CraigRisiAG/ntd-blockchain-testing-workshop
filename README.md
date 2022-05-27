@@ -17,8 +17,15 @@ truffle migrate
 
 Run the liteserver development server (outside the development console) for front-end hot reloading. Smart contract changes must be manually recompiled and migrated.
 
-// Serves the front-end on http://localhost:3000
+Serves the front-end on http://localhost:3000
 
 ```
 npm run dev
+```
+
+
+Once you are ready to start testing, type in the following command:
+
+```
+truffle test
 ```
