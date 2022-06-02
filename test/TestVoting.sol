@@ -1,4 +1,5 @@
-pragma solidity >=0.4.22 <0..0;
+
+pragma solidity >=0.4.22 <0.9.0;
 
 import "truffle/Assert.sol";
 import "truffle/DeployedAddresses.sol";
@@ -41,3 +42,5 @@ function testUserCanVoteLocation() public {
             "Voted location of the expected location should be this contract"
         );
     }
+}
+
